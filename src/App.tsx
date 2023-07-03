@@ -10,6 +10,7 @@ import Login from "./pages/Login";
 import SignUp from "./pages/SignUp";
 import { useEffect } from "react";
 
+
 function App() {
   const action = useNavigationType();
   const location = useLocation();
